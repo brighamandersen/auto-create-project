@@ -1,4 +1,4 @@
-USERNAME="brighamband"
+USERNAME="brighamandersen"
 # GH_PAT is an env var (GitHub Personal Access Token)
 
 echo "Enter name for new repository (hyphen-separated):"
