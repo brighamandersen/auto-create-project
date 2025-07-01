@@ -5,7 +5,7 @@
    Add it to your `~/.bashrc` or `~/.zshrc`:  
    `export GH_PAT="{TOKEN}"`
 3. Add an alias to your `git-create` file so you can run it outside of this git repo. the scopelso make sure to add the `git-create` file to your PATH so that you can run in from outside the scope of this repo:  
-   `alias git_create="~/code/auto-create-project/git-create.sh` (Adjust path as needed)
+   `alias git-create="~/code/auto-create-project/git-create.sh` (Adjust path as needed)
 
 # Usage
 
